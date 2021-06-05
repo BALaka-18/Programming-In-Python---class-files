@@ -19,3 +19,5 @@ Find all files under the ```python_from_scratch``` folder.
 Days 8 and 9 were class tests.
 
 [DAY 10](https://github.com/BALaka-18/Programming-In-Python---class-files/blob/main/python_from_scratch/Day_10_OOP.py)
+
+[DAY 11](https://github.com/BALaka-18/Programming-In-Python---class-files/blob/main/python_from_scratch/Day_11_OOP_contd.py)
